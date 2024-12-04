@@ -10,4 +10,4 @@ Available on [github pages](https://neutronstar03.github.io/symmetro/) and [stat
 - `pnpm build` (for production build)
 
 # one gif
-![gif showing ui](https://github.com/neutronstar03/symmetro/assets/2657230/c9da034a-9899-4c93-8a04-c5ac4d3dbbcd)
+![gif showing ui](https://github.com/user-attachments/assets/3737f4c8-c548-48ba-b217-9acac3694b0a)
